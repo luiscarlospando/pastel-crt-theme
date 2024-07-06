@@ -20,7 +20,7 @@ cd ~/.warp/themes
 git clone https://github.com/luiscarlospando/crt-pastel-theme.git
 ```
 
-### That-s it!
+### That's it!
 Now you only have to restart Warp terminal, go to the theme selection menu and search for `CRT Pastel` to select this theme.
 
 Enjoy.
@@ -29,3 +29,6 @@ Enjoy.
 Of course you will need to have Warp terminal in order to use this theme.
 
 - [Warp](https://www.warp.dev/)
+
+## Questions or comments?
+Feel free to [contact me](https://luiscarlospando.com/contacto).
