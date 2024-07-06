@@ -1,0 +1,30 @@
+---
+background: "#120128" # Terminal background color
+accent:
+    left: "#f383af" # Accent color for UI elements
+    right: "#c96ef7"
+foreground: "#dfafe9" # The foreground color.
+background_image:
+    path: special_edition/pastel-crt_bg.png
+    opacity: 100
+details: darker
+terminal_colors: # Ansi escape colors.
+    bright:
+        black: "#17062d"
+        blue: "#9998ff"
+        cyan: "#01c7e0"
+        green: "#00cc99"
+        magenta: "#c96ef7"
+        red: "#ea5ea8"
+        white: "#f8b9d2"
+        yellow: "#EB4F9F"
+    normal:
+        black: "#17062d"
+        blue: "#9998ff"
+        cyan: "#01c7e0"
+        green: "#00cc99"
+        magenta: "#c96ef7"
+        red: "#ea5ea8"
+        white: "#f8b9d2"
+        yellow: "#ffc466"
+name: Pastel CRT
