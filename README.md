@@ -1,4 +1,4 @@
-# CRT Pastel Theme for Warp terminal
+# Pastel CRT Theme for Warp terminal
 ![Screenshot of CRT Pastel Warp terminal theme](./screenshots/screenshot-pastel-crt.png)
 
 Custom made theme for Warp terminal that emulates the look of an old CRT display and combines it with a beautiful combination of pastel colors.
