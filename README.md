@@ -33,4 +33,4 @@ Of course you will need to have Warp terminal in order to use this theme.
 - [Warp](https://www.warp.dev/)
 
 ## Questions or comments?
-Feel free to [contact me](https://luiscarlospando.com/contacto) or if you feel like it, you can [buy me a beer](https://luiscarlospando.com/contacto)! 🍺
+Feel free to [contact me](https://luiscarlospando.com/contacto) or if you feel like it, you can [buy me a beer](https://www.buymeacoffee.com/luiscarlospando)! 🍺
